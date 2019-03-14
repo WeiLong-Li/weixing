@@ -1,0 +1,125 @@
+@charset "UTF-8";
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: '微软雅黑';
+}
+.title {
+  width: 98%;
+  padding-left: 0.4rem;
+  height: 0.66666667rem;
+  margin-top: 0.26666667rem;
+  padding-left: 2%;
+}
+span {
+  font-size: 0.53333333rem;
+  color: black;
+  width: 3rem;
+  height: 100%;
+  display: inline-block;
+  float: left;
+  line-height: 100%;
+  margin-left: 0.13333333rem;
+  font-weight: 500;
+}
+.span1 {
+  margin-top: 0.26666667rem;
+  display: inline-block;
+  float: left;
+  font-size: 0.46666667rem;
+  color: #7B7B7B;
+  width: 2.53333333rem;
+}
+.tel {
+  margin-top: 0.26666667rem;
+  overflow: hidden;
+}
+.titleicon {
+  width: 0.13333333rem;
+  height: 80%;
+  background: #0F8EEF;
+  float: left;
+}
+.el-input {
+  width: 40% !important;
+  font-size: 0.4rem !important;
+  margin-left: 0.26666667rem !important;
+}
+.el-input__inner {
+  width: 6.66666667rem !important;
+  height: 1.06666667rem !important;
+  float: left;
+  border: 0.02666667rem solid #E0E0E0 !important;
+}
+.el-input5 .el-input__inner {
+  width: 5.86666667rem !important;
+}
+.position {
+  width: 0.8rem;
+  height: 0.8rem;
+  float: right;
+  margin-right: 0.26666667rem;
+  margin-top: 0.2rem;
+}
+.position img {
+  width: 100%;
+  height: 100%;
+}
+i {
+  width: 0.66666667rem;
+  height: 0.93333333rem;
+  font-size: 0.4rem;
+  color: #f8f8f8 !important;
+}
+.form-group {
+  width: 2.33333333rem;
+  height: 0.93333333rem;
+  float: left;
+}
+.form-control {
+  width: 2rem !important;
+  height: 0.93333333rem !important;
+  float: left !important;
+  font-size: 0.4rem !important;
+}
+.el-textarea__inner {
+  width: 6.66666667rem !important;
+  height: 2.66666667rem !important;
+  font-size: 0.4rem !important;
+  margin-right: 30px !important;
+  float: right;
+}
+.hr {
+  width: 100%;
+  height: 0.13333333rem;
+  background: #EEEEEE;
+  margin-top: 0.4rem;
+}
+.bt {
+  width: 100%;
+  height: 2.66666667rem;
+  text-align: center;
+  margin-top: 1.33333333rem;
+}
+.button {
+  width: 80% !important;
+  height: 1.06666667rem !important;
+  margin: 0 auto;
+  font-size: 0.46666667rem !important;
+  line-height: 215% !important;
+  background: #0F8EEF !important;
+  border-radius: 0.13333333rem !important;
+}
+.form-inline {
+  overflow: hidden;
+  position: relative;
+  right: -0.26666667rem;
+}
+.sel {
+  font-size: 0.33333333rem !important;
+  margin-left: 0.26666667rem !important;
+}
+#canvas {
+  position: absolute;
+  z-index: 66;
+}
